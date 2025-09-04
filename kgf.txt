@@ -1,0 +1,2 @@
+actors: yash, srinidhi, sanjay dutt, raveena tandon
+prashant neel is the director of this film.
