@@ -1,8 +1,6 @@
 first lineee
 
 second line
-<<<<<<< HEAD
-=======
 
 third line
 
@@ -11,4 +9,3 @@ fourth line
 fifth line
 
 sixth line
->>>>>>> feature-a
